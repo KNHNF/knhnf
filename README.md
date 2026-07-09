@@ -15,17 +15,6 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 ### 📊 GitHub
 
 <div align="center">
-
-<img height="162" src="https://github-readme-stats.vercel.app/api?username=KNHNF&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=2dd4bf&text_color=8b949e&border_radius=6" />
-<img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNHNF&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&border_radius=6&langs_count=6" />
-
-</div>
-
-<div align="center">
-<img width="96%" src="https://streak-stats.demolab.com/?user=KNHNF&theme=github-dark&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=8b949e&currStreakNum=e6edf3&dates=484f58&sideNums=e6edf3&border_radius=6" />
-</div>
-
-<div align="center">
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KNHNF&bg_color=0d1117&color=38bdf8&line=0284c7&point=2dd4bf&hide_border=true&radius=6" />
 </div>
 
