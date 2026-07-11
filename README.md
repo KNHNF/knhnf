@@ -2,7 +2,7 @@
 
 # Karan Homayounfar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+freelance" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+graduate+roles" alt="Typing" />
 
 </div>
 
