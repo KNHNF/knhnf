@@ -24,8 +24,8 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 
 | Project | What it does | Stack | Status |
 |:--|:--|:--|:--:|
-| [Reception System](https://karan-portfolio-al7.pages.dev/projects/reception-system/) | Local LLM phone handler for SMEs: Whisper STT, LLaMA, Google Calendar API | Python · FastAPI · Ollama | 🟡 Pilot |
-| [GB Electricity EWS](https://karan-portfolio-al7.pages.dev/projects/dissertation/) | Balancing mechanism cost forecasting with novel Early Warning Horizon metric | XGBoost · LightGBM · SHAP | 🔵 Jul 2026 |
+| [GB Balancing Mechanism Forecasting](https://karan-portfolio-al7.pages.dev/projects/dissertation/) | Forecasting total GB balancing mechanism cost per settlement period, a target no published GB study models directly. LEAR baseline vs XGBoost and LSTM, rolling-window evaluation, Diebold-Mariano testing | Python · XGBoost · LSTM | 🔵 Due Jan 2027 |
+| [Reception System](https://karan-portfolio-al7.pages.dev/projects/reception-system/) | Local LLM phone handler for SMEs, prototype stage: Whisper STT, fine-tuned LLaMA/Phi-3, Google Calendar API | Python · FastAPI · Ollama | 🟡 Prototype |
 | [SmartQuote Assistant](https://github.com/KNHNF/smartquote-assistant) | Email extraction + quote reply automation, 96% field accuracy | Python · Ollama · OpenAI | ✅ Done |
 | [Whisper STT Eval](https://github.com/KNHNF/whisper-stt-eval) | STT evaluation on LibriSpeech: WER, CER, latency + live Streamlit dashboard | Python · Faster-Whisper | ✅ Done |
 | [ML Practice](https://github.com/KNHNF/ml-practice) | One algorithm per week: theory notes + notebook, KNN to MLP | Python · scikit-learn | 🟢 Active |
@@ -53,13 +53,15 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 ![QLoRA fine-tuning](https://img.shields.io/badge/QLoRA%20fine--tuning-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Faster%20Whisper-10b981?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-8b949e?style=flat-square)
 
 **Currently learning**
 
-![XGBoost](https://img.shields.io/badge/XGBoost-learning-8b949e?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-learning-8b949e?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-learning-8b949e?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-learning-8b949e?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-learning-8b949e?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-learning-8b949e?style=flat-square)
 
 **Databases & Infrastructure**
 
@@ -72,7 +74,6 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -83,6 +84,6 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karan--homayounfar-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/karan-homayounfar)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](mailto:karanhomayounfar2@gmail.com)
 
-*Bristol, UK · Open to internships and freelance · [knhnf.github.io](https://knhnf.github.io)*
+*Bristol, UK · Open to internships and graduate roles · [knhnf.github.io](https://knhnf.github.io)*
 
 </div>
