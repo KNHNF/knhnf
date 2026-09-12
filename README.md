@@ -2,13 +2,13 @@
 
 # Karan Homayounfar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+graduate+roles" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Forecasting+GB+energy+markets+with+ML;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+graduate+roles" alt="Typing" />
 
 </div>
 
 ---
 
-I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone systems, and production web platforms. BSc Computer Engineering, **1st in class** (GPA 18.87/20). Enterprise Scholarship. Student Rep Gold Award. Currently wrapping up MSc Data Science at UWE Bristol.
+MSc Data Science at UWE Bristol, focused on GB energy markets, forecasting and time-series ML. BSc Computer Engineering, **1st in class** (GPA 18.87/20). Enterprise Scholarship. Student Rep Gold Award. I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone systems, and production web platforms.
 
 ---
 
@@ -25,12 +25,12 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 | Project | What it does | Stack | Status |
 |:--|:--|:--|:--:|
 | [GB Balancing Mechanism Forecasting](https://karan-portfolio-al7.pages.dev/projects/dissertation/) | Forecasting total GB balancing mechanism cost per settlement period, a target no published GB study models directly. LEAR baseline vs XGBoost and LSTM, rolling-window evaluation, Diebold-Mariano testing | Python · XGBoost · LSTM | 🔵 Due Jan 2027 |
-| [Reception System](https://karan-portfolio-al7.pages.dev/projects/reception-system/) | Local LLM phone handler for SMEs, prototype stage: Whisper STT, fine-tuned LLaMA/Phi-3, Google Calendar API | Python · FastAPI · Ollama | 🟡 Prototype |
+| [SME Reception LLM](https://github.com/KNHNF/sme-reception-llm) | Local LLM phone handler for SMEs: QLoRA fine-tuning, FastAPI backend, Faster-Whisper STT | Python · FastAPI · Ollama | 🟡 Prototype |
+| [EPC Retrofit Potential (ML)](https://github.com/KNHNF/epc-retrofit-potential-ml) | Predicting UK residential retrofit potential from EPC open data: Random Forest, XGBoost, Logistic Regression and SVM under nested cross-validation | Python · scikit-learn · XGBoost | ✅ Done |
 | [SmartQuote Assistant](https://github.com/KNHNF/smartquote-assistant) | Email extraction + quote reply automation, 96% field accuracy | Python · Ollama · OpenAI | ✅ Done |
 | [Whisper STT Eval](https://github.com/KNHNF/whisper-stt-eval) | STT evaluation on LibriSpeech: WER, CER, latency + live Streamlit dashboard | Python · Faster-Whisper | ✅ Done |
-| [ML Practice](https://github.com/KNHNF/ml-practice) | One algorithm per week: theory notes + notebook, KNN to MLP | Python · scikit-learn | 🟢 Active |
-| [Crime & Deprivation](https://github.com/KNHNF/bigdata-crime-deprivation) | Crime vs deprivation across English police areas | MongoDB · PostgreSQL | ✅ Done |
 | [Retail KPI Pipeline](https://github.com/KNHNF/retail-sales-kpi-analysis) | End-to-end BI pipeline over £10.6M sales dataset. ETL, MySQL, Streamlit | Python · Pandas · MySQL | ✅ Done |
+| [NCC](https://github.com/KNHNF/NCC) | Hackathon build, see repo for detail | (see repo) | ✅ Done |
 | [File Organizer](https://github.com/KNHNF/file-organizer) | Python CLI that auto-sorts files by type, with dry-run, undo, custom config | Python | ✅ Done |
 
 ---
@@ -55,14 +55,6 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 ![Whisper](https://img.shields.io/badge/Faster%20Whisper-10b981?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-8b949e?style=flat-square)
 
-**Currently learning**
-
-![LangChain](https://img.shields.io/badge/LangChain-learning-8b949e?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-learning-8b949e?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-learning-8b949e?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-learning-8b949e?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-learning-8b949e?style=flat-square)
-
 **Databases & Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -74,6 +66,8 @@ I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone sys
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+*Currently learning: LangChain, RAG, SHAP, GitHub Actions, n8n*
 
 ---
 
