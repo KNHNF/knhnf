@@ -12,14 +12,6 @@ MSc Data Science at UWE Bristol, focused on GB energy markets, forecasting and t
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KNHNF&bg_color=0d1117&color=38bdf8&line=0284c7&point=2dd4bf&hide_border=true&radius=6" />
-</div>
-
----
-
 ### 🚀 Projects
 
 | Project | What it does | Stack | Status |
